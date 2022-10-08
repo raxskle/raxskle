@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 
@@ -10,6 +10,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=raxskle)
 -->
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=raxskle)
