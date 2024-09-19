@@ -1,9 +1,9 @@
 ### 你今日飲咗🍺未？
 
-### 𝒜𝒷𝑜𝓊𝓉 🤠
-
 ✊Learning front-end development...
+
 😈I want to be an interesting person.
+
 😊I like coding👨‍💻, watching movies🎦 while indulging in beers🍺. 
 
 ```js
