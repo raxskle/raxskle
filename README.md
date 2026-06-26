@@ -1,39 +1,19 @@
-### 你今日飲咗🍺未？
+### Hi there 👋
 
-✊Learning front-end development...
+I am Raxskle, a developer who creates products using AI.
 
-😈I want to be an interesting person.
+😊I like vibe coding👨‍💻, watching movies🎦 while indulging in beers🍺. 
 
-😊I like coding👨‍💻, watching movies🎦 while indulging in beers🍺. 
+### Contact ✨
 
-```js
-class Raxskle {
-  constructor() {
-    this.name = "Raxskle";
-    this.university = "Huazhong University of Science and Technology";
-    this.habits = ["coding👨‍💻", "movies🎦", "drinks🍺", "billiards🎱"];
+* Wechat: Raxforeveryoung
 
-    this.contacts = {
-      tencentQQ: "3328147378",
-      email: "raxskle@foxmail.com",
-      website: "https://blog.raxskle.fun",
-    };
-  }
-  sleep(){
-    return new Promise((wakeUp)=>{
-      setTimeout(()=>{
-        wakeUp();
-      }, Infinity); // I wanted to sleep forever, but was immediately returned by js😡
-    })
-  }
-}
-```
+### OPC & AI Web Project
 
+* [WhatIsThisMovie](https://whatisthismovie.com) - Find a movie from your description
 
-My Products:
+* [FrameGuess](https://frameguess.com) - Can you guess the movie from one frame?
 
-WhatIsThisMovie - [whatisthismovie.com](https://whatisthismovie.com) 
+* [PhotoRepair](https://photorepair.app) - Restore & Repair Damaged Photo with AI
 
-WhatIsThisMovie is a movie discovery tool that helps users identify films from screenshots, scene clues, or simple keywords. In seconds, users can find the title, release year, cast, genre, and related recommendations.
-
-
+* [DreamBunny](https://photorepair.app)  - AI Dream Interpreter
