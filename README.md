@@ -17,3 +17,5 @@ I am Raxskle, a developer who creates products using AI.
 * [PhotoRepair](https://photorepair.app) - Restore & Repair Damaged Photo with AI
 
 * [DreamBunny](https://photorepair.app)  - AI Dream Interpreter
+
+* [Fortune Teller](https://fortunetelleronline.org)  - AI Fortune Teller Online for Free
